@@ -26,7 +26,9 @@ questions against a curated FAQ dataset using **TF-IDF + cosine similarity**.
 - [Notes & Limitations](#notes--limitations)
 
 ---
+## 🔗 Live Demo
 
+Try it here: **https://safex-faq-chatbot-bxd7enhyyatghwpg5yedrd.streamlit.app** 
 ## Overview
 
 SafeX Solutions' website did not have a dedicated FAQ page at the time of this
